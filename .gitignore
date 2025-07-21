@@ -1,0 +1,14 @@
+# Entorno virtual
+.venv/
+__pycache__/
+*.pyc
+
+# Archivos temporales
+/data/output_audio/
+/data/transcriptions/
+/data/translations/
+
+# Otros
+*.log
+.env
+*.sqlite3
